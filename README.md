@@ -1,4 +1,4 @@
-# Curso Java
+# Curso de Java
 ## Universidade XTI (Ricardo Lopes Costa)
 
 Este repositório é composto por arquivos usados no curso de JAVA da empresa [Universidade XTI](http://www.xti.com.br/).
