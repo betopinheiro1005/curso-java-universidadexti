@@ -4,7 +4,7 @@
 Este repositório é composto por arquivos usados no curso de JAVA da empresa [Universidade XTI](http://www.xti.com.br/).
 
 
-O curso de Java da Universidade XTI é um dos cursos de Java em português mais completo que existe na NET, sendo recomendado para estudantes iniciantes e avançados.Porém, esse curso não está mais sendo distribuído oficialmente pela a empresa, mas é possível encontrá-lo no canal do Youtube [](https://www.youtube.com/playlist?list=PLxQNfKs8YwvGhXHbHtxtoB-tRRv6r3Rlr) e em alguns sites de downloads P2P.
+O curso de Java da Universidade XTI é um dos cursos de Java, em português, mais completo que existe na Internet, sendo recomendado para estudantes iniciantes e avançados. Porém, esse curso não está mais sendo distribuído oficialmente pela a empresa, mas é possível encontrá-lo no canal do Youtube [](https://www.youtube.com/playlist?list=PLxQNfKs8YwvGhXHbHtxtoB-tRRv6r3Rlr) e em alguns sites de downloads P2P.
 
 
 Os códigos encontrados na pasta `src` estão com uma boa parte das suas linhas comentadas, o que facilita o entendimento dos mesmos.  
